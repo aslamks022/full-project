@@ -1,6 +1,8 @@
-Book_ID,Book_Name,Author,Status,Issued_To
-B001,C Programming,Dennis Ritchie,Issued,Aslam
-B002,Python Basics,Mark Lutz,Available,-
-B003,Data Structures,Seymour Lipschutz,Issued,Rahul
-B004,Operating Systems,Galvin,Available,-
-B005,Computer Networks,Tanenbaum,Issued,Priya
+
+
+Order_ID,Student_Name,Item,Quantity,Price
+F001,Aslam,Burger,2,200
+F002,Rahul,Pizza,1,180
+F003,Priya,Coffee,2,100
+F004,Ananya,Sandwich,1,80
+F005,Rohit,French Fries,2,140
